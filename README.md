@@ -1,7 +1,7 @@
-## CS5008
+# CS5008
  This is a repository for the CS5008 Data Structures, Algorithms, and their Applications in Computer Systems course Spring 2022 at the Northeatern University
 
-#Objective
+# Objective
 This course presents an integrated approach to the study of data structures, algorithms, and their applications within computer systems. We introduce a variety of systems-related topics (models of computation, computer architecture, compilation, system software) and fundamental techniques for solving algorithms (divide-and-conquer, dynamic programming, graph algorithms) as they apply to computer systems. The integration of topics is demonstrated through the implementation of fundamental data structures (lists, queues, trees, maps, graphs) in the C programming language. Additional breadth topics can include programming applications that expose students to primitives of different subsystems such as multi-threading.
 
 By the end of this course, you should be able to:
