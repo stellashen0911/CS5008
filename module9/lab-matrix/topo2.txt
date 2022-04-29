@@ -1,0 +1,13 @@
+eat sleep
+eat exercise
+shower eat
+exercise drink
+eat drink
+exercise shopping
+shower shopping
+eat shopping
+shower drive
+shopping drive
+eat drive
+drive walk
+eat walk

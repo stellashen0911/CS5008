@@ -1,0 +1,24 @@
+# Mid-Term Assignment
+
+- Name: Minjie Shen 
+- Description: This is the implementation of a hashmap
+- How many hours did it take you to complete this assignment? 6 hours 
+- Did you collaborate with any other students/TAs/Professors? If so, tell us who and in what capacity.
+  - No, I finished it on my own.
+- Did you use any external resources? (Cite them below)
+  - N/A
+- (Optional) What was your favorite part of the assignment? 
+  - Debugging
+- (Optional) How would you improve the assignment? 
+  - N/A
+
+## Logistics
+
+For this assignment (and every assignment/lab), you must login into the servers through `your_khoury_name@login.khoury.neu.edu` to complete and test your work. The reason is the examples I will provide below are compiled strictly for our machines architecture, and this is a consistent architecture where your submission will be graded.
+
+### Important notes
+
+* Your code **must compile and run** on the Khoury machines to earn credit. Make sure you test your programs on these machines, as this is where we grade your assignments.
+* You must commit any additional files(if any) into your repository so we can test your code.
+  * Points will be lost if you forget!
+* Do not forget, once you have pushed your changes to your repo make sure that you **submit them to Gradescope before the assignment deadline!**
